@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=cylinder&height=200&color=ff69b4&text=Hi!%20I'm%20Ania%20:)&textBg=false&fontAlignY=58&animation=fadeIn&fontColor=ffffff&v=30">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=cylinder&height=200&color=ffc0cb&text=Hi!%20I'm%20Ania%20:)&textBg=false&fontAlignY=58&animation=fadeIn&fontColor=000000&v=30">
-    <img src="https://capsule-render.vercel.app/api?type=cylinder&height=200&color=ff69b4&text=Hi!%20I'm%20Ania%20:)&fontColor=ffffff&v=30">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=cylinder&height=100&color=ff69b4&text=Hi!%20I'm%20Ania%20:)&textBg=false&fontAlignY=58&fontSize=40&animation=fadeIn&fontColor=ffffff&v=30">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=cylinder&height=100&color=ffc0cb&text=Hi!%20I'm%20Ania%20:)&textBg=false&fontAlignY=58&fontSize=40&animation=fadeIn&fontColor=000000&v=30">
+    <img src="https://capsule-render.vercel.app/api?type=cylinder&height=100&color=ff69b4&text=Hi!%20I'm%20Ania%20:)&fontColor=ffffff&fontSize=40&v=30">
   </picture>
 </p>
 
