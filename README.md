@@ -15,13 +15,16 @@ What's more, I am also a member of **KN Neuron** (neuroinformatics scientific cl
 
 ### 👾 Key Projects
 
-####  [SaccadeSync](https://github.com/quangptt0910/SaccadeSync) 👁️
+#### [SaccadeSync](https://github.com/quangptt0910/SaccadeSync) 👁️
 *Webcam-based ADHD diagnostic tool using Google MediaPipe that measures saccadic and antisaccadic eye movements to differenciate ADHD individuals from neurotypical ones.*
 
-####  [Diabeto](https://github.com/natalia0sperczynska/diabetes_app) 🩸
+#### [Diabeto](https://github.com/natalia0sperczynska/diabetes_app) 🩸
 *Cyber-aesthetic diabetes management cross-platform app with CGM integration for Dexcom & Libre sensors.*
 
-####  [EEG Dashboard](https://github.com/BinaryWiz4rd/eeg-dashboard) 🧠
+#### [Magnesium PK Simulator](https://github.com/BinaryWiz4rd/magnesium-pharmacokinetics) 🧪
+*Interactive 1-compartment and 2-compartment pharmacokinetic simulation dashboard with Monte Carlo population analysis and dedicated profiles for genetic renal wasting tubulopathies.*
+
+#### [EEG Dashboard](https://github.com/BinaryWiz4rd/eeg-dashboard) 🧠
 *Cross-platform Flutter dashboard for real-time EEG data analysis and visualization.*
 
 ---
